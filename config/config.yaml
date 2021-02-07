@@ -21,7 +21,7 @@ CONFIG:
     #浏览器 <Chrome 或 Firefox>
     Browser:  Chrome
 
-    Base_Url: http://manage.acewill.net
+    Base_Url: https://oss-beta.acewill.cn:28380
 
     Custom_Var:
 
